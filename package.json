@@ -1,0 +1,16 @@
+{
+  "name": "@cookiex/uid",
+  "version": "1.0.0",
+  "description": "CookieX unique ID",
+  "main": "dist/index.js",
+  "repository": "https://github.com/tony-tsx/cookiex-uid.git",
+  "author": "tony-tsx <tony.js@zoho.eu>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "@cookiex/eslint-config": "^0.3.0",
+    "eslint": "^7.1.0",
+    "ts-node": "^8.10.1",
+    "typescript": "^3.9.3"
+  }
+}
