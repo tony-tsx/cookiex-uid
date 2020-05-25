@@ -8,8 +8,8 @@
   "license": "MIT",
   "private": false,
   "scripts": {
-    "build": "tsc",
-    "prepare": "tsc"
+    "build": "rm -rf dist && tsc",
+    "prepare": "yarn build"
   },
   "devDependencies": {
     "@cookiex/eslint-config": "^0.3.0",
